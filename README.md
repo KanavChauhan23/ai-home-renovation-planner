@@ -5,11 +5,12 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.39+-red?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-An intelligent home renovation planning application powered by AI that helps homeowners visualize, plan, and budget their home improvement projects.
 
 ## 🚀 Live Demo
 
 [View Live](https://ai-home-renovation-kanavchauhan.streamlit.app/)
+
+An intelligent home renovation planning application powered by AI that helps homeowners visualize, plan, and budget their home improvement projects.
 
 ## 🌟 Overview
 
