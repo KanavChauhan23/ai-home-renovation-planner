@@ -11,7 +11,7 @@
 [View Live](https://ai-home-renovation-kanavchauhan.streamlit.app/)
 
 An intelligent home renovation planning application powered by AI that helps homeowners visualize, plan, and budget their home improvement projects.
-
+</div>
 ## 🌟 Overview
 
 AI Home Renovation Planner is a Streamlit-based web application that leverages artificial intelligence to assist users in planning their home renovation projects. Whether you're looking to remodel your kitchen, update your bathroom, or transform your entire home, this tool provides intelligent recommendations, cost estimates, and design suggestions.
