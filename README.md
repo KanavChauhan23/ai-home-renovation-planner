@@ -1,6 +1,8 @@
 # 🏡 AI Home Renovation Planner
 
 <div align="center">
+
+![AI-home-planner AI Banner](https://img.shields.io/badge/SmartGhar-AI%20Powered-blueviolet?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.39+-red?style=for-the-badge&logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
